@@ -1,0 +1,24 @@
+
+
+<BR>
+Name: dfsa<BR>
+Email: <a href="mailto:dfs@vse.cz">dfs@vse.cz</a><BR>
+Message: sdfsfd<BR>
+
+
+<BR>
+Name: asdsad<BR>
+Email: <a href="mailto:asdasd@vse.cz">asdasd@vse.cz</a><BR>
+Message: sadasd<BR>
+
+
+<BR>
+Name: asda<BR>
+Email: <a href="mailto:asdasd@vse.cz">asdasd@vse.cz</a><BR>
+Message: asdas<BR>
+
+
+<BR>
+Name: fdsdfs<BR>
+Email: <a href="mailto:pi2h@seznam.cz">pi2h@seznam.cz</a><BR>
+Message: asdasdasd<BR>
