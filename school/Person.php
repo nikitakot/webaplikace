@@ -8,6 +8,7 @@
  */
 abstract class Person
 {
+    protected $name;
     protected $age;
     protected $sex;
 
@@ -18,7 +19,7 @@ abstract class Person
     }
 
     /**
-     * @return mixed
+     * @return int
      */
     public function getAge()
     {
@@ -26,7 +27,7 @@ abstract class Person
     }
 
     /**
-     * @return mixed
+     * @return string
      */
     public function getSex()
     {

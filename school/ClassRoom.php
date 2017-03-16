@@ -48,7 +48,7 @@ class ClassRoom
     }
 
     public function addSeminar($seminar){
-        $this->seminars.add($seminar);
+        array_push($this->seminars, $seminar);
     }
 
     public function deleteSeminar($seminar){
